@@ -1,0 +1,8 @@
+# Escludi i dati grezzi dal caricamento su GitHub
+data/raw/
+*.csv
+
+# Escludi file di sistema e temporanei
+.DS_Store
+Thumbs.db
+*.tmp
